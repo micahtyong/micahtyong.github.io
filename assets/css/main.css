@@ -3469,7 +3469,7 @@ input, select, textarea {
 				}
 
 				#intro .actions {
-					display: none;
+					/* display: none; */
 				}
 
 		}
