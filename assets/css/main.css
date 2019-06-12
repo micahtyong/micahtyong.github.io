@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	background: url('../../images/wall2.png');
+	background: url('../../images/misc2.JPG') center center no-repeat;
 	/* background: white; */
 	line-height: 1;
 }
@@ -3197,6 +3197,9 @@ input, select, textarea {
 
 	#wrapper {
 		background: url('../../images/misc2.JPG');
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
 		/* background-image: linear-gradient(white, black); */
 		-moz-transition: opacity 0.5s ease;
 		-webkit-transition: opacity 0.5s ease;
